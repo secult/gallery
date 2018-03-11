@@ -1,0 +1,24 @@
+{
+  "name": "gallery",
+  "version": "1.0.0",
+  "description": "python bootstrap jquery playground",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap3": "^3.3.5",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secult/gallery.git"
+  },
+  "author": "secult",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/secult/gallery/issues"
+  },
+  "homepage": "https://github.com/secult/gallery#readme"
+}
